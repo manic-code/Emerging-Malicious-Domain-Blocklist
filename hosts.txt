@@ -42,3 +42,5 @@
 0.0.0.0 slavesenviablegrammar.com
 0.0.0.0 tacticmarshannouncing.com
 0.0.0.0 chagtyuauipter.cam
+0.0.0.0 3f5cc3ab66.6775afc540.com
+0.0.0.0 6775afc540.com
