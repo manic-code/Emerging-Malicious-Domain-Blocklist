@@ -1,3 +1,3 @@
 # This Blocklist is intended to supplement other existing/larger blocklist sources. This list is most effective on movie streaming sites such as fmovies/soap2day or other sketchy yet highly trafficked sites. All URL additions to this list are vetted to avoid including a false positive. Not intended to be used for anti-tracking purposes however, such domains also arent explicitly forbidden. #
 
-All submissions are welcome in the issues section, please ensure it does not break any legiimate services before submission. Newly registered domains that appear highly suspicious and have little history on VirusTotal.com are also eligible to be included in this list. 
+All submissions are welcome in the issues section, please ensure it does not break any legitimate services before submission. Newly registered domains that appear highly suspicious and have little history on VirusTotal.com are also eligible to be included in this list. 
