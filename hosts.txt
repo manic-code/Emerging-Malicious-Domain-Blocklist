@@ -59,4 +59,3 @@
 0.0.0.0 d1j1m9awq6n3x3.cloudfront.net
 0.0.0.0 d27qffx6rqb3qm.cloudfront.net
 0.0.0.0 d4eqyxjqusvjj.cloudfront.net
-
