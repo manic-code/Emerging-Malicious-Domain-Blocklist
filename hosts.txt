@@ -65,3 +65,8 @@
 0.0.0.0 d1g4xgvlcsj49g.cloudfront.net
 0.0.0.0 herefoortowa.cc
 0.0.0.0 andoldifiscqak.xyz
+0.0.0.0 getbitly.today
+0.0.0.0 vpn-content.net
+0.0.0.0 ef.vpn-content.net
+0.0.0.0 d145ghnzqbsasr.cloudfront.net
+0.0.0.0 custoomedb.cc
