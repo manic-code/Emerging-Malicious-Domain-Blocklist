@@ -70,3 +70,7 @@
 0.0.0.0 ef.vpn-content.net
 0.0.0.0 d145ghnzqbsasr.cloudfront.net
 0.0.0.0 custoomedb.cc
+0.0.0.0 dp45nhyltt487.cloudfront.net
+0.0.0.0 ayanpleasek.xyz
+0.0.0.0 raglassofrum.cc
+
