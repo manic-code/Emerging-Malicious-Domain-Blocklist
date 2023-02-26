@@ -2,6 +2,9 @@
 
 # Info
 This blocklist is intended to supplement existing/larger blocklist sources. The list provides the most coverage on popular movie streaming sites (**ex. soap2day/fmovies.to**) and other similar seedy or untrustworthy websites. All additions to this blocklist are vetted to avoid including a false positive. While not intended to be used for anti-tracking purposes such domains may be included if they do not break any legitimate services when blocked.
+> Here is the raw URL for the list, add this to your pihole or other dns filter. 
+
+> https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
 
 # Additional Notes
 This list is one of many upstream sources for [Hagezi's Blocklist](https://github.com/hagezi/dns-blocklists), if you currently use the **PRO**, **PRO++**, or **Ultimate** version of Hagezi's list there's no additional benefit to adding this list as you are already protected by this source.
