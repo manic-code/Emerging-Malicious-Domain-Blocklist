@@ -212,3 +212,11 @@
 0.0.0.0 www.freehd18.com
 0.0.0.0 onlinemoviesfree.com
 0.0.0.0 www.onlinemoviesfree.com
+0.0.0.0 0nline-bankofthewest.com
+0.0.0.0 www.0nline-bankofthewest.com
+0.0.0.0 0a13e8d1e5f0579256808b.buzz
+0.0.0.0 www.0a13e8d1e5f0579256808b.buzz
+0.0.0.0 0a2d87752801ddcdf792bb.buzz
+0.0.0.0 www.0a2d87752801ddcdf792bb.buzz
+0.0.0.0 0a403c1d8c273b731edf5c.buzz
+0.0.0.0 www.0a403c1d8c273b731edf5c.buzz
