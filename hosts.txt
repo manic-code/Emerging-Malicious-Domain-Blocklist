@@ -203,3 +203,12 @@
 0.0.0.0 u4m.ink
 0.0.0.0 www.u4m.ink
 0.0.0.0 hdonline.u4m.ink
+0.0.0.0 d1zjpzpoh45wtm.cloudfront.net
+0.0.0.0 modeidsoanadthenb.xyz
+0.0.0.0 www.modeidsoanadthenb.xyz
+0.0.0.0 hopuchcompa.com
+0.0.0.0 www.hopuchcompa.com
+0.0.0.0 freehd18.com
+0.0.0.0 www.freehd18.com
+0.0.0.0 onlinemoviesfree.com
+0.0.0.0 www.onlinemoviesfree.com
