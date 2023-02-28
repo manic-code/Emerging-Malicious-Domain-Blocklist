@@ -11,4 +11,4 @@ This list is one of many upstream sources for [Hagezi's Blocklist](https://githu
 
 # Suggestions or Issues?
 All submissions are welcome in the issues section, please ensure it does not break any legitimate services before submission. Newly registered domains that appear highly suspicious and have little history on VirusTotal.com are also eligible to be included in this list. 
-> Please verify that new URL submissions do not already exist on [Hagezi's blocklist](https://github.com/hagezi/dns-blocklists). You can use [this website to search multiple bocklists for positive matches.](https://dnswarden.com/search.html) 
+> Please verify that new URL submissions do not already exist on [Hagezi's blocklist](https://github.com/hagezi/dns-blocklists). You can use [this website to search multiple blocklists for matches.](https://dnswarden.com/search.html) 
