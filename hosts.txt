@@ -220,3 +220,8 @@
 0.0.0.0 www.0a2d87752801ddcdf792bb.buzz
 0.0.0.0 0a403c1d8c273b731edf5c.buzz
 0.0.0.0 www.0a403c1d8c273b731edf5c.buzz
+0.0.0.0 kadwnhhistoli.xyz
+0.0.0.0 www.kadwnhhistoli.xyz
+0.0.0.0 d3g4s1p0bmuj5f.cloudfront.net
+0.0.0.0 ersislaqands.com
+0.0.0.0 www.ersislaqands.com
