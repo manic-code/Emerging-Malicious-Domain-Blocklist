@@ -240,3 +240,5 @@
 0.0.0.0 masaxe.xyz
 0.0.0.0 cdn.masaxe.xyz
 0.0.0.0 www.masaxe.xyz
+0.0.0.0 hscylui.top
+0.0.0.0 www.hscylui.top
