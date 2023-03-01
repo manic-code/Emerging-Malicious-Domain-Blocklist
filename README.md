@@ -1,7 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/manic-code/Emerging-Malicious-Domain-Blocklist?style=for-the-badge) ![Github stars](https://img.shields.io/github/stars/manic-code/Emerging-Malicious-Domain-Blocklist?style=for-the-badge) ![Github filesize](https://img.shields.io/github/size/manic-code/Emerging-Malicious-Domain-Blocklist/hosts.txt?color=purple&style=for-the-badge) ![Github issues](https://img.shields.io/github/issues-raw/manic-code/Emerging-Malicious-Domain-Blocklist?color=maroon&style=for-the-badge)
 
 # Info
-This blocklist is intended to supplement existing/larger blocklist sources. The list provides the most coverage on websites such as those that offer free movie streaming (**ex. soap2day/fmovies.to**) or other similar seedy and untrustworthy domains. All additions to this blocklist are vetted to avoid including a false positive. While not intended to be used for anti-tracking purposes such domains may be included if they do not break any legitimate services when blocked.
+This blocklist is intended to supplement existing/larger blocklist sources. The list provides the most coverage on websites such as those that offer free movie streaming (**ex. soap2day/fmovies.to**) and other similar seedy or untrustworthy domains. All additions to this blocklist are vetted to avoid including a false positive. While not intended to be used for anti-tracking purposes such domains may be included if they do not break any legitimate services when blocked.
 > Here is the raw URL for the list, add this to your pihole or other dns filter. 
 
 > https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
