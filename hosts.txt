@@ -225,3 +225,7 @@
 0.0.0.0 d3g4s1p0bmuj5f.cloudfront.net
 0.0.0.0 ersislaqands.com
 0.0.0.0 www.ersislaqands.com
+0.0.0.0 idwithblaockbrok.xyz
+0.0.0.0 www.idwithblaockbrok.xyz
+0.0.0.0 stthykerewasn.com
+0.0.0.0 www.stthykerewasn.com
