@@ -242,3 +242,8 @@
 0.0.0.0 www.masaxe.xyz
 0.0.0.0 hscylui.top
 0.0.0.0 www.hscylui.top
+0.0.0.0 d36un5ytqxjgkq.cloudfront.net
+0.0.0.0 ukennailsandoth.xyz
+0.0.0.0 www.ukennailsandoth.xyz
+0.0.0.0 edtheparllase.com
+0.0.0.0 www.edtheparllase.com
