@@ -258,3 +258,11 @@
 0.0.0.0 8378af3954.92f83e092d.com
 0.0.0.0 92f83e092d.com
 0.0.0.0 www.92f83e092d.com
+0.0.0.0 my.toruftuiov.com
+0.0.0.0 www.toruftuiov.com
+0.0.0.0 toruftuiov.com
+0.0.0.0 d3ugwbjwrb0qbd.cloudfront.net
+0.0.0.0 asifiwoeryesterda.xyz
+0.0.0.0 www.asifiwoeryesterda.xyz
+0.0.0.0 hesatinaco.com
+0.0.0.0 www.hesatinaco.com
