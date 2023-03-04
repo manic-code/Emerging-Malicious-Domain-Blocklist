@@ -1,3 +1,8 @@
+# Emerging Malicious Domain Blocklist by manic-code
+# Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
+# Please report any issues, they will be resolved quickly! 
+# MIT License
+
 0.0.0.0 traveldealhut.com
 0.0.0.0 www.traveldealhut.com
 0.0.0.0 theprizecentral.website
