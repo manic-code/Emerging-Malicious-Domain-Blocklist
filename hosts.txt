@@ -299,10 +299,10 @@
 0.0.0.0 dewanni.page.link
 0.0.0.0 steamcommuurntiy.com
 0.0.0.0 www.steamcommuurntiy.com
-0.0.0.0	steamcommnuurtiy.com
+0.0.0.0 steamcommnuurtiy.com
 0.0.0.0 steanmcoommunnity.com
 0.0.0.0 www.steanmcoommunnity.com
-0.0.0.0	streampowered.ru
+0.0.0.0 streampowered.ru
 0.0.0.0 www.streampowered.ru
 0.0.0.0 www.steamcommnuurtiy.com
 0.0.0.0 staencommumity.com
@@ -316,9 +316,9 @@
 0.0.0.0 steanmconimunnity.com
 0.0.0.0 www.steanmconimunnity.com
 0.0.0.0 hypixel-rank.net
-0.0.0.0	www.hypixel-rank.net
+0.0.0.0 www.hypixel-rank.net
 0.0.0.0 steemconmumity.ru
-0.0.0.0	www.steemconmumity.ru
+0.0.0.0 www.steemconmumity.ru
 0.0.0.0 steancomnunlty.website
 0.0.0.0 www.steancomnunlty.website
 0.0.0.0 steamcommunity-com-profiles76561198421939033.ru
@@ -365,4 +365,4 @@
 0.0.0.0 pcapshopping.com
 0.0.0.0 www.pcapshopping.com
 0.0.0.0 jeconworld.com
-0.0.0.0	www.jeconworld.com
+0.0.0.0 www.jeconworld.com
