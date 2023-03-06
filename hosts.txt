@@ -2,8 +2,18 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 5 2023
+# Last update March 6 2023
 
+robiox.com.pl
+www.robiox.com.pl
+steamcommuniity.pro
+www.steamcommuniity.pro
+steanmcommmunity.com
+www.steanmcommmunity.com
+steamncommunrty.ru
+www.steamncommunrty.ru
+steamcommuneutie.com
+www.steamcommuneutie.com
 stearmcommurnity.com
 www.stearmcommurnity.com
 rustinity.net
