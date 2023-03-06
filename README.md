@@ -8,7 +8,7 @@
 This blocklist is intended to supplement existing/larger blocklist sources. The list provides the most coverage against free movie streaming site pop-ups, social media phishing links, newly registered domains intending to impersonate consumer brands, and various other untrustworthy websites. All additions to this blocklist are vetted to avoid including a false positive. While not intended to be used for anti-tracking purposes such domains may be included if they do not break any legitimate services when blocked.
 
 All domains are sourced primarily from my personal blocklist. This is supplemented with various sources from Alienvault's open threat exchange site with a heavy emphasis on newly registered phishing and malicious links. Sites actively spreading malware are the primary target.
-> I make a strong effort to include phishing campaigns that are targeting users all over the world however as I'm limited by my sources this means currently coverage is limited to European & North American users. Hope to expand this soon. 
+> I make a strong effort to include phishing campaigns that are targeting users all over the world however as I'm limited by my sources this means currently coverage applies mostly to European & North American users. I hope to expand this soon so all regions and ccTLDs are covered. 
 
 
 # Additional Notes
