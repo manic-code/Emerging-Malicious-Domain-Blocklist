@@ -2,8 +2,49 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 6 2023
+# Last update March 7 2023
 
+lule-burgas.com
+ount.lule-burgas.com
+www.ount.lule-burgas.com
+qqbroz.top
+amazon.cc.jp.qqbroz.top
+www.amazon.cc.jp.qqbroz.top
+baitworm.com
+mob.baitworm.com
+www.mob.baitworm.com
+jjyyaa.top
+www.jjyyaa.top
+huobisbts.com
+info-ama-php.huobisbts.com
+www.info-ama-php.huobisbts.com
+nongyidai.com
+info-ama-php.nongyidai.com
+www.info-ama-php.nongyidai.com
+maominft.com
+info-ama-php.maominft.com
+www.info-ama-php.maominft.com
+wshucang.com
+info-ama-php.wshucang.com
+www.info-ama-php.wshucang.com
+flowersbynicola.com
+www.flowersbynicola.com
+info-ama-php.otherusd.com
+www.info-ama-php.otherusd.com
+dyncobeam.cu.ma
+www.dyncobeam.cu.ma
+scanmycharts.com
+www.scanmycharts.com
+karasserybank.com
+www.karasserybank.com
+vindetect.cz
+www.vindetect.cz
+barclays.co.uk.personalbanking.p1242557947640.p1242557947640.p1242557947640.093030023030230230002300239.countrytrustfacilities.com
+www.barclays.co.uk.personalbanking.p1242557947640.p1242557947640.p1242557947640.093030023030230230002300239.countrytrustfacilities.com
+firenicemechanical.com
+www.firenicemechanical.com
+eles-tech.com
+www.eles-tech.com
 steampowered.world
 www.steampowered.world
 keydrop.us
@@ -22,6 +63,8 @@ stearmcommurnity.com
 www.stearmcommurnity.com
 rustinity.net
 www.rustinity.net
+gonorthhalifax.com
+www.gonorthhalifax.com
 stearncommuinty.com.ru
 www.stearncommuinty.com.ru
 stearncommuinty.ru
