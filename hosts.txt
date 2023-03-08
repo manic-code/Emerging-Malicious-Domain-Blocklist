@@ -2,8 +2,96 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 7 2023
+# Last update March 8 2023
 
+### Kerala Lottery Impersonation Scam ###
+### https://cloudsek.com/threatintelligence/online-kerala-lottery-an-investigation-into-the-impersonation-scam ###
+upibank.com
+www.upibank.com
+upibank.in
+www.upibank.in
+paymentupi.upibank.in
+dashboard.upibank.in
+indiacashpayment.com
+pay.indiacashpayment.in
+www.indiacashpayment.com
+ybbpay.net
+www.ybbpay.net
+sliderummy.in
+www.sliderummy.in
+keralaticketone.com
+h5.keralaticketone.com
+www.h5.keralaticketone.com
+www.keralaticketone.com
+lotteryadda.com
+www.lotteryadda.com
+static.staging.lotteryadda.com
+www.static.staging.lotteryadda.com
+admin.staging.lotteryadda.com
+www.admin.staging.lotteryadda.com
+job.staging.lotteryadda.com
+www.job.staging.lotteryadda.com
+dl2.lotteryadda.com
+www.dl2.lotteryadda.com
+dl.game.lotteryadda.com
+www.dl.game.lotteryadda.com
+dl.lotteryadda.com
+www.dl.lotteryadda.com
+game.static.lotteryadda.com
+www.game.static.lotteryadda.com
+bapi.staging.lotteryadda.com
+www.bapi.staging.lotteryadda.com
+api.game.lotteryadda.com
+www.api.game.lotteryadda.com
+api.staging.lotteryadda.com
+www.api.staging.lotteryadda.com
+bapi.testing.lotteryadda.com
+www.bapi.testing.lotteryadda.com
+static.lotteryadda.com
+www.static.lotteryadda.com
+in.lotteryadda.com
+www.in.lotteryadda.com
+m.lotteryadda.com
+www.m.lotteryadda.com
+h5.lotteryadda.com
+www.h5.lotteryadda.com
+keralaticketonline.com
+h5.keralaticketonline.com
+www.h5.keralaticketonline.com
+www.keralaticketonline.com
+lottomegawin.com
+h5.lottomegawin.com
+www.h5.lottomegawin.com
+www.lottomegawin.com
+kerala-ticket.com
+h5.kerala-ticket.com
+www.h5.kerala-ticket.com
+www.kerala-ticket.com
+### End of Kerala Lottery Impersonation Scam ###
+### Redirect Phishing Sites ###
+### https://cloudsek.com/threatintelligence/actors-exploit-open-redirect-vulnerability-to-host-phishing-pages-targeting-government-entities-in-qatar ###
+blog.marcelmarszalek.pl
+www.blog.marcelmarszalek.pl
+marcelmarszalek.pl
+www.marcelmarszalek.pl
+igrashki.com
+www.igrashki.com
+samarahay.ru
+www.samarahay.ru
+pgdskofjaloka.si
+www.pgdskofjaloka.si
+### End of Redirect Phishing Sites ###
+### Black Friday & Crypto Scams ###
+### https://cloudsek.com/threatintelligence/beware-of-black-friday-2022-themed-cyber-threats ###
+fzmvih.top
+www.fzmvih.top
+eth-blackfriday.com
+www.eth-blackfriday.com
+eth20celebrate.com
+www.eth20celebrate.com
+eth20donation.com
+www.eth20donation.com
+### End of Black Friday & Crypto Scams ###
 ### Middle East Phishing Campaign ###
 ### https://cloudsek.com/threatintelligence/advanced-phishing-scams-target-individuals-businesses-in-the-middle-east ###
 ### https://cloudsek.com/threatintelligence/advanced-phishing-campaign-targeting-individuals-businesses-in-the-middle-east-part-2 ### 
@@ -367,10 +455,14 @@ Skylickmigrantagency.com
 www.Skylickmigrantagency.com
 unitedschofbaniyas.com
 www.unitedschofbaniyas.com
-### Middle East Phishing Campaign END ###
-###
+### End of Middle East Phishing Campaign ###
+### Phishing Service (Caffeine)
+### https://cloudsek.com/threatintelligence/caffeine-the-phishing-as-a-service-platform-targeting-russian-chinese-entities
 eduardorodiguez9584.ongraphy.com
 www.eduardorodiguez9584.ongraphy.com
+caffeines.store
+www.caffeines.store
+### End of Phishing Service (Caffeine) ###
 shh-hotels.com
 www.shh-hotels.com
 shh-hotel.com
