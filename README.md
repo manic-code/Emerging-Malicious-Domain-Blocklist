@@ -12,7 +12,7 @@ All domains are sourced primarily from my personal blocklist. This is supplement
 
 
 # Additional Notes
-This list is one of many upstream sources for [Hagezi's Blocklist](https://github.com/hagezi/dns-blocklists), if you currently use the **PRO**, **PRO++**, or **Ultimate** version of Hagezi's list there's no additional benefit to adding this list as you are already protected by this source.
+This list is one of many upstream sources for [Hagezi's Blocklist](https://github.com/hagezi/dns-blocklists), if you currently use any of the "Multi" lists which range from **Light** to **Ultimate** then there's no need to add this blocklist as you are already protected by this source.
 
 # Suggestions or Issues?
 All submissions are welcome in the issues section, please ensure it does not break any legitimate services before submission. Newly registered domains that appear highly suspicious and have little history on VirusTotal.com are also eligible to be included in this list. 
