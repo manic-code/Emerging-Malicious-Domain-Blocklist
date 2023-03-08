@@ -4,6 +4,20 @@
 # MIT License
 # Last update March 8 2023
 
+static.165.135.4.185.clients.grserver.gr
+www.static.165.135.4.185.clients.grserver.gr
+aws1-console-login.us
+www.aws1-console-login.us
+aws1-us-west.info
+www.aws1-us-west.info
+aws2-console-login.xyz
+www.aws2-console-login.xyz
+sa.kfc-deliver.site
+www.sa.kfc-deliver.site
+claimmoonbirds.space
+www.claimmoonbirds.space
+app.claimmoonbirds.space
+www.app.claimmoonbirds.space
 eflow.ieo.vizvaz.com
 www.eflow.ieo.vizvaz.com
 eflow.ieo.faqserv.com
