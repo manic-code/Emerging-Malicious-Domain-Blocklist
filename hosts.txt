@@ -4,6 +4,11 @@
 # MIT License
 # Last update March 11 2023
 
+### GoBruteForcer Botnet C2 Domain ###
+### https://unit42.paloaltonetworks.com/gobruteforcer-golang-botnet/#post-127183-_ez9vec5q9zky
+fi.warmachine.su
+www.fi.warmachine.su
+### End of GoBruteForcer Botnet ###
 site-cliente-promo.com
 www.site-cliente-promo.com
 ksatathaker.com
