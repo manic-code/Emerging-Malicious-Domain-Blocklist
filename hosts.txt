@@ -2,8 +2,14 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 11 2023
+# Last update March 12 2023
 
+d29mxewlidfjg1.cloudfront.net
+www.d29mxewlidfjg1.cloudfront.net
+esorandhewa.com
+www.esorandhewa.com
+mentxviewsinte.info
+www.mentxviewsinte.info
 usocceesoersecacacns.vhaturbate.co
 www.usocceesoersecacacns.vhaturbate.co
 rakuten.party
