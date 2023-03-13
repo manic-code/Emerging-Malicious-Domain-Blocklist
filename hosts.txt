@@ -2,8 +2,14 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 12 2023
+# Last update March 13 2023
 
+haitingshospi.info
+www.haitingshospi.info
+dmakingbyth.com
+www.dmakingbyth.com
+d3b4u8mwtkp9dd.cloudfront.net
+www.d3b4u8mwtkp9dd.cloudfront.net
 pic.99dy.cc
 www.pic.99dy.cc
 ftp.newyorkmart.com
