@@ -2,8 +2,22 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 17 2023
+# Last update March 18 2023
 
+hawaiianbabywoodrose-seeds.com
+www.hawaiianbabywoodrose-seeds.com
+ftp.hawaiianbabywoodrose-seeds.com
+www.ftp.hawaiianbabywoodrose-seeds.com
+k007.ajmk86.cn
+www.k007.ajmk86.cn
+ajmk86.cn
+www.ajmk86.cn
+fw.n3ems.co.kr
+www.fw.n3ems.co.kr
+nms.n3ems.co.kr
+www.nms.n3ems.co.kr
+n3ems.co.kr
+www.n3ems.co.kr
 usarmycare.com
 www.usarmycare.com
 smart-iptv-france.fr
