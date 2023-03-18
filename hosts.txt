@@ -2,8 +2,14 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 16 2023
+# Last update March 17 2023
 
+tingexceleler.com
+www.tingexceleler.com
+julyhadchose.com
+www.julyhadchose.com
+dsnymrk0k4p3v.cloudfront.net
+www.dsnymrk0k4p3v.cloudfront.net
 vourioutlet.com
 www.vourioutlet.com
 timberlandpartnersinvestment.com
