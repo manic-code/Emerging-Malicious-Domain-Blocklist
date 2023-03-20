@@ -2,8 +2,10 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 19 2023
+# Last update March 20 2023
 
+kopeukasrsiha.com
+www.kopeukasrsiha.com
 conference.planapps-bolivia.org.bo
 teleconsulta.planapps-bolivia.org.bo
 files.planapps-bolivia.org.bo
