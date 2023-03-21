@@ -2,8 +2,16 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 20 2023
+# Last update March 21 2023
 
+cleanupphone.com
+www.cleanupphone.com
+eputysolomon.com
+www.eputysolomon.com
+tailpgjpearanc.com
+www.tailpgjpearanc.com
+dlh8c15zw7vfn.cloudfront.net
+www.dlh8c15zw7vfn.cloudfront.net
 privateseguranca.com
 www.privateseguranca.com
 vires-numeris.co.uk
