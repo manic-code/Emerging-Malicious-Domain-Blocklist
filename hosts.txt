@@ -2,8 +2,12 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 22 2023
+# Last update March 23 2023
 
+taonforhavinga.info
+www.taonforhavinga.info
+ganismpro.com
+www.ganismpro.com
 vagosbet8.com
 www.vagosbet8.com
 vagosbet7.com
