@@ -2,12 +2,74 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 25 2023
+# Last update March 26 2023
 # ATTENTION This list will no longer be updated by the start of April 2023
 # Please switch to the newer ABP style blocklist I'm creating.
 # Pi-Hole users must update to the latest version to use the above list type.
 # ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. subdomains)
 
+beeemmiigrate.xyz
+www.beeemmiigrate.xyz
+bazemaxminers.com
+www.bazemaxminers.com
+autotradebroker.net
+www.autotradebroker.net
+app-txidcontract.com
+www.app-txidcontract.com
+apexprotrade.com
+www.apexprotrade.com
+360bullexchange.com
+www.360bullexchange.com
+defiintegrationapp.online
+www.defiintegrationapp.online
+tradexcoins.online
+www.tradexcoins.online
+starcoinminers.com
+www.starcoinminers.com
+stablecapitalinvest.online
+www.stablecapitalinvest.online
+fintechs-growth.com
+www.fintechs-growth.com
+defitrades.online
+www.defitrades.online
+coin-blocks.com
+www.coin-blocks.com
+cevacoinvest.com
+www.cevacoinvest.com
+blockchainserverminer.com
+www.blockchainserverminer.com
+blakcoinfxmine.com
+www.blakcoinfxmine.com
+sarasotadreamweddings.com
+www.sarasotadreamweddings.com
+traderprofx.com
+www.traderprofx.com
+secured.reliablecointrade.com
+reliablecointrade.com
+www.reliablecointrade.com
+maxhashcryptto.com
+www.maxhashcryptto.com
+primestock.dailyupdate.click
+dailyupdate.click
+www.dailyupdate.click
+login.patriotsilverinvestment.com
+patriotsilverinvestment.com
+www.patriotsilverinvestment.com
+etoromining.in
+www.etoromining.in
+anjowallet.com
+www.anjowallet.com
+allianz-capital.online
+www.allianz-capital.online
+account.cryptwealthoptions.com
+cryptwealthoptions.com
+www.cryptwealthoptions.com
+account.abstracttrading.com
+abstracttrading.com
+www.abstracttrading.com
+mail.crypinvestments.com
+crypinvestments.com
+www.crypinvestments.com
 mail.crediblelx.com
 crediblelx.com
 www.crediblelx.com
@@ -19,8 +81,6 @@ usdpool.cc
 www.usdpool.cc
 universaltradesoptionx.com
 www.universaltradesoptionx.com
-tradexcoins.online
-www.tradexcoins.online
 tesla4gpt.com
 www.tesla4gpt.com
 tesla-gpt4.net
@@ -29,10 +89,6 @@ sterlingcaptcha.tech
 www.sterlingcaptcha.tech
 starlinginv.net
 www.starlinginv.net
-starcoinminers.com
-www.starcoinminers.com
-stablecapitalinvest.online
-www.stablecapitalinvest.online
 solutionwhales.com
 www.solutionwhales.com
 solutiondigital.info
@@ -61,8 +117,6 @@ fxpremiertradex.com
 www.fxpremiertradex.com
 future-financeltd.net
 www.future-financeltd.net
-fintechs-growth.com
-www.fintechs-growth.com
 fidelityalliance-fx.com
 www.fidelityalliance-fx.com
 expressbase.ltd
@@ -73,46 +127,22 @@ elon-ai.net
 www.elon-ai.net
 dexiainvestment.com
 www.dexiainvestment.com
-defitrades.online
-www.defitrades.online
 daxueglobal.com
 www.daxueglobal.com
 cryptotrustmining.com
 www.cryptotrustmining.com
-coin-blocks.com
-www.coin-blocks.com
 citicapitalinvestment.com
 www.citicapitalinvestment.com
 ciscominner.com
 www.ciscominner.com
-cevacoinvest.com
-www.cevacoinvest.com
 buygooglecoins.com
 www.buygooglecoins.com
 boanufx.com
 www.boanufx.com
-blockchainserverminer.com
-www.blockchainserverminer.com
-blakcoinfxmine.com
-www.blakcoinfxmine.com
 bitprimefinance.net
 www.bitprimefinance.net
 bitcoinfxwallet.com
 www.bitcoinfxwallet.com
-beeemmiigrate.xyz
-www.beeemmiigrate.xyz
-bazemaxminers.com
-www.bazemaxminers.com
-autotradebroker.net
-www.autotradebroker.net
-app-txidcontract.com
-www.app-txidcontract.com
-apexprotrade.com
-www.apexprotrade.com
-360bullexchange.com
-www.360bullexchange.com
-defiintegrationapp.online
-www.defiintegrationapp.online
 treasuredinvestmentslimited.com
 www.treasuredinvestmentslimited.com
 tradeaffairslimited.com
