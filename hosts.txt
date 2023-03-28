@@ -8,6 +8,15 @@
 # Pi-Hole users must update to the latest version to use the above list type.
 # ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. subdomains)
 
+adthereissom.com
+www.adthereissom.com
+foreyeshehadtw.com
+www.foreyeshehadtw.com
+d2x0u7rtw4p89p.cloudfront.net
+axp2thqo3xsw.com
+www.axp2thqo3xsw.com
+nmcqrdnj.com
+www.nmcqrdnj.com
 mail.crypinvestments.com
 crypinvestments.com
 www.crypinvestments.com
