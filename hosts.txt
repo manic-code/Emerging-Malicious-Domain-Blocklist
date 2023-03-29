@@ -8,6 +8,8 @@
 # Pi-Hole users must update to the latest version to use the above list type.
 # ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. subdomains)
 
+live-find-cloud.live
+www.live-find-cloud.live
 adthereissom.com
 www.adthereissom.com
 foreyeshehadtw.com
