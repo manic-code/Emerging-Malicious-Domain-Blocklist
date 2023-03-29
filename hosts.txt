@@ -2,12 +2,17 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 28 2023
+# Last update March 29 2023
 # ATTENTION This list will no longer be updated by the start of April 2023
 # Please switch to the newer ABP style blocklist I'm creating.
 # Pi-Hole users must update to the latest version to use the above list type.
 # ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. subdomains)
 
+ntedmanahegaz.com
+www.ntedmanahegaz.com
+obrightsapphir.com
+www.obrightsapphir.com
+d1okyw2ay5msiy.cloudfront.net
 live-find-cloud.live
 www.live-find-cloud.live
 adthereissom.com
