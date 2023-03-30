@@ -2,12 +2,66 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 29 2023
+# Last update March 30 2023
 # ATTENTION This list will no longer be updated by the start of April 2023
 # Please switch to the newer ABP style blocklist I'm creating.
 # Pi-Hole users must update to the latest version to use the above list type.
 # ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. subdomains)
 
+bebidas-cocacola.com
+www.bebidas-cocacola.com
+xenobix.com
+www.xenobix.com
+worldcrestcryptominerfund.org
+www.worldcrestcryptominerfund.org
+westrocktrade.com
+www.westrocktrade.com
+wealth-masterclass.org
+www.wealth-masterclass.org
+virtuefxmarkets.com
+www.virtuefxmarkets.com
+venuxtrade.com
+www.venuxtrade.com
+valcoinexx.online
+www.valcoinexx.online
+upsurge-capital.org
+www.upsurge-capital.org
+systemicerrfix.com
+www.systemicerrfix.com
+tdfinancials.com
+www.tdfinancials.com
+techminingexplore.com
+www.techminingexplore.com
+textverified.ga
+www.textverified.ga
+thebitfinex.com
+www.thebitfinex.com
+topcryptocoins.info
+www.topcryptocoins.info
+topviewstocks.com
+www.topviewstocks.com
+trademecoin.com
+www.trademecoin.com
+trademininginvestpeo.com
+www.trademininginvestpeo.com
+traderblockchain.org
+www.traderblockchain.org
+traderminers.org
+www.traderminers.org
+tradesvest.com
+www.tradesvest.com
+treasurestrade231.com
+www.treasurestrade231.com
+truist-cashbox.org
+www.truist-cashbox.org
+ultimatebitexchange.com
+www.ultimatebitexchange.com
+ultimatecointrading.com
+www.ultimatecointrading.com
+upsilonprotocol.live
+www.upsilonprotocol.live
+upfrontfxtrade.com
+www.upfrontfxtrade.com
 ntedmanahegaz.com
 www.ntedmanahegaz.com
 obrightsapphir.com
