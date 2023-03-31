@@ -1,1 +1,52 @@
+! Emerging Malicious Domain Blocklist by manic-code
+! Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
+! Please report any issues, they will be resolved quickly!
+! MIT License
+! Last update March 31 2023
 
+||live-find-cloud.live^
+||crypinvestments.com^
+||crediblelx.com^
+||wpspingerinvestment.online^
+||wfgmininggroup.live^
+||usdpool.cc^
+||universaltradesoptionx.com^
+||tradexcoins.online^
+||sterlingcaptcha.tech^
+||starlinginv.net^
+||starcoinminers.com^
+||stablecapitalinvest.online^
+||solutionwhales.com^
+||solutiondigital.info^
+||skywayfxinvest.com^
+||shieldcloudmining.org^
+||safetradeprofit.online^
+||roymarcorporation.com^
+||premiumshareslimited.com^
+||olvifinance.com^
+||metaforcecapital.com^
+||investocks.org^
+||intrexmining.com^
+||gramcoinstrade.com^
+||globalfinancelimited.com^
+||glistrade.com^
+||fxpremiertradex.com^
+||future-financeltd.net^
+||fintechs-growth.com^
+||fidelityalliance-fx.com^
+||fandcholding.com^
+||dexiainvestment.com^
+||defitrades.online^
+||daxueglobal.com^
+||cryptotrustmining.com^
+||crediblelx.com^
+||coin-blocks.com^
+||citicapitalinvestment.com^
+||ciscominner.com^
+||cevacoinvest.com^
+||buygooglecoins.com^
+||boanufx.com^
+||blockchainserverminer.com^
+||blakcoinfxmine.com^
+||bitprimefinance.net^
+||bitcoinfxwallet.com^
