@@ -2,12 +2,17 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update March 30 2023
+# Last update April 1 2023
 # ATTENTION This list will no longer be updated by the start of April 2023
 # Please switch to the newer ABP style blocklist I'm creating.
 # Pi-Hole users must update to the latest version to use the above list type.
 # ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. subdomains)
 
+day13vh1xl0gh.cloudfront.net
+worlowedonh.com
+www.worlowedonh.com
+tictastesnlynot.com
+www.tictastesnlynot.com
 20230329.com
 www.20230329.com
 onlineplayboyjob.com
