@@ -2,8 +2,10 @@
 ! Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 ! Please report any issues, they will be resolved quickly!
 ! MIT License
-! Last update March 31 2023
+! Last update April 2 2023
+! Test update
 
+||affinityshoppingstorellc.com^
 ||live-find-cloud.live^
 ||crypinvestments.com^
 ||crediblelx.com^
