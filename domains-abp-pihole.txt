@@ -3,7 +3,7 @@
 ! Please report any issues, they will be resolved quickly!
 ! MIT License
 ! Last update April 2 2023
-! Test update
+! Test update, Don't use this list, yet.
 
 ||affinityshoppingstorellc.com^
 ||live-find-cloud.live^

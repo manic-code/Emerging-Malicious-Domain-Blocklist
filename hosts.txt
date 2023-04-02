@@ -2,12 +2,86 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update April 1 2023
-# ATTENTION This list will no longer be updated by the start of April 2023
+# Last update April 2 2023
+# ATTENTION This list will no longer be updated in the coming months.
 # Please switch to the newer ABP style blocklist I'm creating.
 # Pi-Hole users must update to the latest version to use the above list type.
-# ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. subdomains)
+# ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. wildcards)
 
+csgo2drop.com
+www.csgo2drop.com
+csgo2code.com
+www.csgo2code.com
+csgo2betatest.ru
+www.csgo2betatest.ru
+csgo2beta.com
+www.csgo2beta.com
+csgo2-source.com
+www.csgo2-source.com
+csgo2-beta.com
+www.csgo2-beta.com
+cs2beta.ru
+www.cs2beta.ru
+access-source.com
+www.access-source.com
+xn--ciqpnp3a065a7wel2g1ydmx5e.com
+www.xn--ciqpnp3a065a7wel2g1ydmx5e.com
+webcastrugby.com
+www.webcastrugby.com
+vidiearn.com
+www.vidiearn.com
+tuhogarecologico.com
+www.tuhogarecologico.com
+tpconsultops.com
+www.tpconsultops.com
+top-deal-shop.com
+www.top-deal-shop.com
+reisys.se
+www.reisys.se
+quitbanqi.com
+www.quitbanqi.com
+psecu-protect.com
+www.psecu-protect.com
+plenizo.com
+www.plenizo.com
+menutiga.com
+www.menutiga.com
+menusatu.com
+www.menusatu.com
+menusakti.com
+www.menusakti.com
+menunusantara.com
+www.menunusantara.com
+menulima.com
+www.menulima.com
+menudua.com
+www.menudua.com
+khamiantiquestore.com
+www.khamiantiquestore.com
+jobwal.com
+www.jobwal.com
+globaligltd.com
+www.globaligltd.com
+ganeshastores.com
+www.ganeshastores.com
+frontdeluxe.com
+www.frontdeluxe.com
+frigad.com
+www.frigad.com
+featherrivergoods.com
+www.featherrivergoods.com
+esotti.com
+www.esotti.com
+danieldujaxco.com
+www.danieldujaxco.com
+caltechtrading.com
+www.caltechtrading.com
+bltilingremodeling.com
+www.bltilingremodeling.com
+bestringtonesnet.com
+www.bestringtonesnet.com
+affinityshoppingstorellc.com
+www.affinityshoppingstorellc.com
 day13vh1xl0gh.cloudfront.net
 worlowedonh.com
 www.worlowedonh.com
