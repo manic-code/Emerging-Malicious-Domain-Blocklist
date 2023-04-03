@@ -2,12 +2,21 @@
 # Blocklist Info page: https://github.com/manic-code/Emerging-Malicious-Domain-Blocklist
 # Please report any issues, they will be resolved quickly! 
 # MIT License
-# Last update April 2 2023
+# Last update April 3 2023
 # ATTENTION This list will no longer be updated in the coming months.
 # Please switch to the newer ABP style blocklist I'm creating.
 # Pi-Hole users must update to the latest version to use the above list type.
 # ABP blocklists offers more comprehensive blocking compared to domain lists (e.g. wildcards)
 
+ldthinkhimun.com
+www.ldthinkhimun.com
+edindeedeisas.com
+www.edindeedeisas.com
+d142i1hxvwe38g.cloudfront.net
+webprotectpro.com
+www.webprotectpro.com
+trackingtrns.com
+www.trackingtrns.com
 csgo2drop.com
 www.csgo2drop.com
 csgo2code.com
